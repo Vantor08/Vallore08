@@ -1,0 +1,10 @@
+{
+  "sections": {
+    "main": {
+      "type": "vallore-storefront"
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
